@@ -14,7 +14,8 @@ Project Overview
 Welcome to my React projects repository! Here you will find various web applications I've built using React, Tailwind CSS, and other modern development tools. Each project has its own set of features and functionalities aimed at solving different problems.
 
 Projects : 
-1.	To Do List: 
+1.	To Do List
+2.	React Basics 
 
 Contributing
 Guidelines for contributing to the projects. Explain how others can get involved and what the contribution process looks like.
